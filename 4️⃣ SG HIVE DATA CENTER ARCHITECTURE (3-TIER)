@@ -1,0 +1,19 @@
+# 🐝 SG HIVE DATA CENTER ARCHITECTURE
+
+### Tier 1 — Rack Micro-Zone
+- Per rack sensors
+- Local ThermalController instance
+- Immediate heat reaction
+
+### Tier 2 — Aisle / Sector Controller
+- Coordinates 10–20 racks
+- Shared airflow management
+
+### Tier 3 — Facility AI Layer
+- Overseen by TRINITY + QNSF
+- Predictive optimization
+- Suggests shifting workloads, adjusting room HVAC
+
+🗺 Thermal zones equal processing clusters
+
+“AI maps computing loads as if managing microclimates.”
